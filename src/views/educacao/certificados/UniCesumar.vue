@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://www.unicesumar.edu.br/" target="_blank">
-                    <img alt="UniCesumar" src="/public/logo_unicesumar.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="UniCesumar" src="/logo_unicesumar.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 UniCesumar
             </span>

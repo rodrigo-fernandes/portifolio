@@ -19,21 +19,20 @@
                 <br/>
                 <br/>
             
-                <div class="col-12">
-                        <button class="icon-btn linkedin">
-                            <a href="https://www.linkedin.com/in/rodrigo-fernandes-841827114/" target="_blank">
-                                <LinkedinSvg/>
-                            </a>
-                        </button>
-
-                        <button class="icon-btn github">
-                            <a href="https://github.com/rodrigo-fernandes" target="_blank">
-                                <GithubSvg/>
-                            </a>
-                        </button>
+                <div class="col-12 div-format-text">
+                    <button class="icon-btn linkedin" title="Linkedin" alt="Linkedin">
+                        <a href="https://www.linkedin.com/in/rodrigo-fernandes-841827114/" target="_blank">
+                            <LinkedinSvg/>
+                        </a>
+                    </button>
+                    <button class="icon-btn github" title="Github" alt="Github">
+                        <a href="https://github.com/rodrigo-fernandes" target="_blank">
+                            <GithubSvg/>
+                        </a>
+                    </button>
                 </div>
 
-                <div class="col-12">
+                <div class="col-12 div-format-text">
                     <div class="buttons">
                         <RouterLink to="/about" class="readme">Saber mais</RouterLink>
                         <a href="#contact" class="contactme">Entrar em contato</a>

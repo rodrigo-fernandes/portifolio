@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://www.udemy.com/" target="_blank">
-                    <img alt="Udemy" src="/public/logo_udemy.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="Udemy" src="/logo_udemy.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 Udemy
             </span>

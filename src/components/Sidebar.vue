@@ -39,10 +39,12 @@
             <span class="text">Formação Acadêmica</span>
         </router-link>
 
+        <!--
         <router-link class="button" to="/contact">
             <span class="material-icons">email</span>
             <span class="text">Contato</span>
         </router-link>
+        -->
     </div>
 
   </aside>

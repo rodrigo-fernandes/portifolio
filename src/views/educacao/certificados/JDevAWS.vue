@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://jdevtreinamento.com.br/" target="_blank">
-                    <img alt="JDev Treinamento on-line" src="/public/logo_jdev.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="JDev Treinamento on-line" src="/logo_jdev.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 JDev Treinamento on-line
             </span>

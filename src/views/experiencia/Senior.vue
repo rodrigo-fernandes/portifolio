@@ -5,7 +5,7 @@
                 <div class="card-header">
                     <div class="col s12 m10">
                         <a href="https://www.senior.com.br/" target="_blank">
-                            <img alt="Senior Sistemas" src="/public/logo_senior.png" class="responsive-img center-block img-table-experiencia-2">
+                            <img alt="Senior Sistemas" src="/logo_senior.png" class="responsive-img center-block img-table-experiencia-2">
                         </a>
                         <span>
                             <a href="https://www.senior.com.br/" target="_blank" class="span-card">Senior Sistemas</a>

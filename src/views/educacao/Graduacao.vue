@@ -16,7 +16,7 @@
                             <label class="label-experiencia"></label>
                             <span class="span-card-cargo" style="margin-left: 1rem;">
                                 <a href="https://descomplica.com.br/" target="_blank">
-                                    <img alt="Descomplica" src="/public/logo_descomplica.png" class="responsive-img center-block img-table-experiencia">
+                                    <img alt="Descomplica" src="/logo_descomplica.png" class="responsive-img center-block img-table-experiencia">
                                 </a>
                                 Descomplica
                             </span>
@@ -38,7 +38,7 @@
                             <label class="label-experiencia"></label>
                             <span class="span-card-cargo" style="margin-left: 1rem;">
                                 <a href="https://furb.br/" target="_blank">
-                                    <img alt="FURB - Universidade Regional de Blumenau" src="/public/logo_furb.png" class="responsive-img center-block img-table-experiencia">
+                                    <img alt="FURB - Universidade Regional de Blumenau" src="/logo_furb.png" class="responsive-img center-block img-table-experiencia">
                                 </a>
                                 FURB - Universidade Regional de Blumenau
                             </span>
@@ -60,7 +60,3 @@
         </div>
     </main>
 </template>
-
-<script setup>
-import FooterTableVue from "../footer/FooterTable.vue";
-</script>

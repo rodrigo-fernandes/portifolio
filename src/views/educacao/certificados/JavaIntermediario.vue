@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://loiane.training/" target="_blank">
-                    <img alt="loiane.training" src="/public/logo_loiane.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="loiane.training" src="/logo_loiane.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 loiane.training
             </span>

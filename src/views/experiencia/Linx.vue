@@ -5,7 +5,7 @@
                 <div class="card-header">
                     <div class="col s12 m10">
                         <a href="https://www.linx.com.br/" target="_blank">
-                            <img alt="Linx" src="/public/logo_linx.png" class="responsive-img center-block img-table-experiencia-2">
+                            <img alt="Linx" src="/logo_linx.png" class="responsive-img center-block img-table-experiencia-2">
                         </a>
                         <span>
                             <a href="https://www.linx.com.br/" target="_blank" class="span-card">Linx</a>

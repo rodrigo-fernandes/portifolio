@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://www.blusoft.org.br/" target="_blank">
-                    <img alt="BluSoft" src="/public/logo_blusoft.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="BluSoft" src="/logo_blusoft.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 BluSoft
             </span>

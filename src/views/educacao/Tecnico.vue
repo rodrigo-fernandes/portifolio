@@ -16,7 +16,7 @@
                             <label class="label-experiencia"></label>
                             <span class="span-card-cargo" style="margin-left: 1rem;">
                                 <a href="http://www.ceduphh.com.br/" target="_blank">
-                                    <img alt="Cedup Hermann Hering" src="/public/logo_cedup.png" class="responsive-img center-block img-table-experiencia">
+                                    <img alt="Cedup Hermann Hering" src="/logo_cedup.png" class="responsive-img center-block img-table-experiencia">
                                 </a>
                                 Cedup Hermann Hering
                             </span>

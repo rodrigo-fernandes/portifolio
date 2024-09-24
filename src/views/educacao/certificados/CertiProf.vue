@@ -4,7 +4,7 @@
             <label class="label-experiencia"></label>
             <span class="span-card-cargo" style="margin-left: 1rem;">
                 <a href="https://certiprof.com/" target="_blank">
-                    <img alt="CertiProf" src="/public/logo_certiprof.png" class="responsive-img center-block img-table-experiencia">
+                    <img alt="CertiProf" src="/logo_certiprof.png" class="responsive-img center-block img-table-experiencia">
                 </a>
                 CertiProf
             </span>

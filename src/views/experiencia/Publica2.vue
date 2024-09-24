@@ -5,7 +5,7 @@
                 <div class="card-header">
                     <div class="col s12 m10">
                         <a href="https://www.publica.inf.br/" target="_blank">
-                            <img alt="Pública Tecnologia" src="/public/logo_publica.png" class="responsive-img center-block img-table-experiencia">
+                            <img alt="Pública Tecnologia" src="/logo_publica.png" class="responsive-img center-block img-table-experiencia">
                         </a>
                         <span>
                             <a href="https://www.publica.inf.br/" target="_blank" class="span-card">Pública Tecnologia</a>
