@@ -8,7 +8,7 @@
                     </h1> 
                 <br/>
                 <br/>
-                <div class="col-md-12 row">
+                <div class="col-md-12 row" style="margin-left: 0px;">
                     <ConsultaCep/>
                     <QRCodeGenerator/>
                     <CameraFeed/>

@@ -34,8 +34,8 @@
 
                 <div class="col-12 div-format-text">
                     <div class="buttons">
-                        <RouterLink to="/about" class="readme">Saber mais</RouterLink>
-                        <a href="#contact" class="contactme">Entrar em contato</a>
+                        <RouterLink to="/experiencia" class="readme">Saber mais</RouterLink>
+                        <a href="/contato" class="contactme">Entrar em contato</a>
                     </div>
                 </div>
             </div>

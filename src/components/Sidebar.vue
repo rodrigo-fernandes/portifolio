@@ -1,8 +1,7 @@
 <template>
   <aside :class="`${is_expanded && 'is-expanded'}`">
-    <div class="loogo">
-        <img src="../assets/logo.svg" alt="Vue"/>
-        <!-- <img src="/public/foto_perfil_portifolio.png" alt="Foto Rodrigo Fernandes"/> -->
+    <div class="logo">
+        <img src="/foto_perfil_portifolio.png" alt="Foto Rodrigo Fernandes">
     </div>
     
     <div class="menu-toggle-wrap">
@@ -17,17 +16,16 @@
             <span class="material-icons">person</span>
             <span class="text">Home</span>
         </router-link>
-
-        <router-link class="button" to="/about">
-            <span class="material-icons">insert_chart</span>
-            <span class="text">Habilidades</span>
-        </router-link>
-
+        
         <router-link class="button" to="/experiencia">
             <span class="material-icons">trending_up</span>
             <span class="text">Experiência</span>
         </router-link>
-
+        
+        <router-link class="button" to="/about">
+            <span class="material-icons">insert_chart</span>
+            <span class="text">Habilidades</span>
+        </router-link>
         
         <router-link class="button" to="/projeto">
             <span class="material-icons">code</span>
@@ -39,12 +37,10 @@
             <span class="text">Formação Acadêmica</span>
         </router-link>
 
-        <!--
-        <router-link class="button" to="/contact">
+        <router-link class="button" to="/contato">
             <span class="material-icons">email</span>
             <span class="text">Contato</span>
         </router-link>
-        -->
     </div>
 
   </aside>
@@ -60,11 +56,14 @@ const ToggleMenu = () => {
 
     localStorage.setItem("is_expanded", is_expanded.value)
 }
+
 </script>
 
 <style lang="scss" scoped>
 
 aside {
+
+
     display: flex;
     flex-direction: column;
     width: calc(2rem + 32px);
@@ -84,7 +83,8 @@ aside {
     .logo {
         margin-bottom: 1rem;
         img {
-            width: 2rem;
+            width: 2.5rem;
+            border-radius: 50%;
         }
     }
 
@@ -182,6 +182,13 @@ aside {
                 margin-right: 1rem;
             }
 
+        }
+
+        .logo {
+            margin-bottom: 1rem;
+            img {
+                width: 15rem;
+            }
         }
     }
 

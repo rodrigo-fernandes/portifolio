@@ -4,6 +4,7 @@ import About from '@/views/About.vue'
 import Experiencia from '@/views/Experiencia.vue'
 import Projeto from '@/views/Projeto.vue'
 import Educacao from '@/views/Educacao.vue'
+import Contato from '@/views/Contato.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -27,6 +28,10 @@ const router = createRouter({
     {
       path: '/educacao',
       component: Educacao
+    },
+    {
+      path: '/contato',
+      component: Contato
     }
   ]
 })

@@ -278,3 +278,13 @@ svg:hover{
 .a-footer-projeto {
     width: 100%;
 }
+
+.span-contato-text {
+    left: 20px;
+    position: relative;
+    border-bottom: 3px solid transparent !important;
+    padding: 3px 3px 0 3px;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+}
